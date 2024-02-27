@@ -1,6 +1,6 @@
 ## CodeSoft_MachineLearning
 
-This repository is for Machine Learning INTERNSHIP From CODSOFT FEB-2024 batch
+This repository is for Machine Learning INTERNSHIP From CODSOFT BATCH - FEB-2024 Batch A33
 
 # TASK 1: MOVIE GENRE CLASSIFICATION
 To Create a machine learning model that can predict the genre of a movie based on its plot summary or other textual information. 
